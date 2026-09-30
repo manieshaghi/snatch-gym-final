@@ -219,7 +219,7 @@ export default function Home() {
             </div>
             <div>
               <h4 className="font-bold text-lg mb-4">{t('footer.phone')}</h4>
-              <p className="text-gray-400">+1 (555) 123-4567</p>
+              <p className="text-gray-400">5433563702</p>
             </div>
             <div>
               <h4 className="font-bold text-lg mb-4">{t('footer.email')}</h4>
